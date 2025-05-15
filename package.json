@@ -1,6 +1,6 @@
 {
   "name": "leetcode-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An MCP server enabling automated access to LeetCode's problems, solutions, and public data with optional authentication for user-specific features, supporting leetcode.com & leetcode.cn sites.",
   "main": "src/index.ts",
   "scripts": {
